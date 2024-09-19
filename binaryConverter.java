@@ -77,5 +77,4 @@ public class binaryConverter
             System.out.print(convertedFromRightToLeftNonInt.get(i));
         }
     }
-
 }
